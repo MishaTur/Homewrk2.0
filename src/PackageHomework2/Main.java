@@ -1,4 +1,6 @@
-package Package1;
+package PackageHomework2;
+
+import PackageHomework2.Car;
 
 public class Main {
     public static void main(String[] args) {

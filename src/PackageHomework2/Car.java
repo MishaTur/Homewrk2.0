@@ -1,4 +1,4 @@
-package Package1;
+package PackageHomework2;
 
 import java.awt.*;
 
@@ -15,7 +15,7 @@ public class Car {
         return color;
     }
 
-    public void setColor(String name) {
+    public void setColor(String color) {
         this.color = color;
     }
 
